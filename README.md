@@ -1,10 +1,10 @@
-# Hello, folks! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
+# Hello, there! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
 
 
-- 👋 Hi, I’m @Exsel1ent
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 🔭 I’m currently working on Sign Languange Project and in spare time try to build my data science related project
+- 🎓 My name is Excel Predinal, a person who likes to learn something new. I am also pursuing my Bachelor in electrical engineering and will graduate in mid 2022.
+- 👀 Outside of programming, I enjoy wacthing movie, drama and reading comic
+- 🌱 I’m currently learning **Python, Jupyter Notebook, Adobe After Effect, and Javascript** 
+- 🔭 I’m currently working on controlling the motor speed with a keypad using Arduino UNO
 - 📫 How to reach me exselpredinal@gmail.com
 
 <!---
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# 🔗 You can find me on 
+# 🔗 You can find me on: 
 <!-- Actual text -->
 
 [![Gmail][1.2]][1] [![LinkedIn][2.2]][2] [![Gmail][3.2]][3]
