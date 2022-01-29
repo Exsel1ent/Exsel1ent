@@ -5,7 +5,6 @@
 - 👀 Outside of programming, I enjoy wacthing movie, drama and reading comic
 - 🌱 I’m currently learning **Python, Jupyter Notebook, Adobe After Effect, and Javascript** 
 - 🔭 I’m currently working on controlling the motor speed with a keypad using Arduino UNO
-- 📫 How to reach me exselpredinal@gmail.com
 
 <!---
 Exsel1ent/Exsel1ent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +30,21 @@ You can click the Preview link to take a look at your changes.
 [1]: mailto:exselpredinal@gmail.com
 [2]: https://www.linkedin.com/in/exsel-predinal-7b9570166/
 [3]: https://doc-14-08-docs.googleusercontent.com/docs/securesc/bmn49fpqsgnhf23vhj8rmf4ko793lhfo/doer9mobe1nj4697v560rtpbtsmehl6j/1643469600000/16832788122944197911/16832788122944197911/181Pzb81C3LY0fFwSBMO9yuKK0hAy_CYE?e=download&authuser=0
+
+
+# 🛠️ Skills
+### Languages
+
+![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=black)
+![C++](https://img.shields.io/badge/C++-6CADDF?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![dart](https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=Siemens&logoColor=white)
+
+
+
+
+
+
 
 
 <div align="center">
