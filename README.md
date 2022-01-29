@@ -41,9 +41,13 @@ You can click the Preview link to take a look at your changes.
 ![dart](https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=Siemens&logoColor=white)
 
 
+### Design Tools
+
+![adobe-xd](https://img.shields.io/badge/abode_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-
+# 📃 Stats
 
 
 
