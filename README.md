@@ -20,10 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Icons -->
 
-[1.2]: https://user-images.githubusercontent.com/98594283/151666161-75b396bf-414d-4dfd-aee3-11f901724523.png
-[2.2]: https://user-images.githubusercontent.com/98594283/151666210-6cbeeaf3-b03f-4e60-811d-dd853a02a7e5.png
-[3.2]: https://user-images.githubusercontent.com/98594283/151666554-ebe8c429-ff70-48ad-88fd-9afd86ff5e11.png
-
+[1.2]: https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white
+[2.2]: https://img.shields.io/badge/Linked_In-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white
+[3.2]: https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white
 
 <!-- Links to your social media accounts -->
 
@@ -35,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 # 🛠️ Skills
 ### Languages
 
-![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=black)
+![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6CADDF?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![dart](https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=Siemens&logoColor=white)
