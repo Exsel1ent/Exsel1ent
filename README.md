@@ -4,7 +4,7 @@
 - 🎓 My name is Exsel Predinal, a person who likes to learn something new. I am also pursuing my Bachelor in electrical engineering and will graduate in mid 2022.
 - 👀 Outside of programming, I enjoy wacthing movie, drama and reading comic
 - 🌱 I’m currently learning **Python, Jupyter Notebook, Adobe After Effect, and Javascript** 
-- 🔭 I’m currently working on Controlling motor speed with a keypad using Arduino UNO
+- 🔭 I’m currently working on Controlling Motor Speed With A Keypad Using Arduino UNO
 
 <!---
 Exsel1ent/Exsel1ent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
